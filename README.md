@@ -1,1 +1,0 @@
-# global66-pokemon

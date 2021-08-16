@@ -1,0 +1,6 @@
+export enum MutationsTypes {
+  SET_POKEMONS = "SET_POKEMONS",
+  SET_FAVORITE = "SET_FAVORITE",
+  SET_FILTER = "SET_FILTER",
+  SET_QUERY = "SET_QUERY",
+}
